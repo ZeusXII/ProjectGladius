@@ -4,3 +4,10 @@
 /Users/christoferberrette/Desktop/FightSim/FightSim/FightSim/obj/Debug/FightSim.csprojAssemblyReference.cache
 /Users/christoferberrette/Desktop/FightSim/FightSim/FightSim/obj/Debug/FightSim.exe
 /Users/christoferberrette/Desktop/FightSim/FightSim/FightSim/obj/Debug/FightSim.pdb
+C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\bin\Debug\FightSim.exe.config
+C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\bin\Debug\FightSim.exe
+C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\bin\Debug\FightSim.pdb
+C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\FightSim.csprojAssemblyReference.cache
+C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\FightSim.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\FightSim.exe
+C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\FightSim.pdb

@@ -10,17 +10,30 @@ namespace FightSim
     {
         private int hp;
         public string name;
+        public Fighter()
+        {
+            hp = 100;
+        }
+        public string AssignName()
+        {
+            Console.Write("Write the name of the fighter: ");
+            name = Console.ReadLine();
+            return name;
+        }
+        
+
+        
+
         public string PresentName()
         {
-           Console.Write("Write the name of the fighter: ");
-           name = Console.ReadLine();
             return name;
         }
         
         public int Attack()
         {
-
-            return 10;
+            var random = new Random();
+            int randomNumber = random.Next(0, 10);
+            return randomNumber;
         }
         public void Hurt(int amount)
         {
