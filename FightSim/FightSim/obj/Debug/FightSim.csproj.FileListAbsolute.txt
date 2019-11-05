@@ -1,0 +1,6 @@
+/Users/christoferberrette/Desktop/FightSim/FightSim/FightSim/bin/Debug/FightSim.exe.config
+/Users/christoferberrette/Desktop/FightSim/FightSim/FightSim/bin/Debug/FightSim.exe
+/Users/christoferberrette/Desktop/FightSim/FightSim/FightSim/bin/Debug/FightSim.pdb
+/Users/christoferberrette/Desktop/FightSim/FightSim/FightSim/obj/Debug/FightSim.csprojAssemblyReference.cache
+/Users/christoferberrette/Desktop/FightSim/FightSim/FightSim/obj/Debug/FightSim.exe
+/Users/christoferberrette/Desktop/FightSim/FightSim/FightSim/obj/Debug/FightSim.pdb

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{74DF8961-D01D-412E-A627-99B6E8466172}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FightSim/Fighter.cs">
+    <Files>
+      <File FileName="FightSim/Program.cs" Line="29" Column="78" />
+      <File FileName="FightSim/Fighter.cs" Line="31" Column="24" />
+      <File FileName="FightSim/FighterB.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FightSim" expanded="True">
+            <Node name="FightSim" expanded="True">
+              <Node name="Fighter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FightSim PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
