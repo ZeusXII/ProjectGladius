@@ -23,6 +23,7 @@ namespace FightSim
                 if (option == 1)
                 {
                     Console.WriteLine("Welcome to the game");
+                    Console.Clear();
                     break;
                 }
                 else if (option == 0)

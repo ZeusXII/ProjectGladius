@@ -11,3 +11,13 @@ C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\Fig
 C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\FightSim.csproj.CoreCompileInputs.cache
 C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\FightSim.exe
 C:\Users\William\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\FightSim.pdb
+C:\Users\william.rahn\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\FightSim.csprojResolveAssemblyReference.cache
+C:\Users\william.rahn\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\FightSim.exe
+C:\Users\william.rahn\Documents\GitHub\ProjectGladius\FightSim\FightSim\obj\Debug\FightSim.pdb
+C:\Users\william.rahn\Documents\GitHub\ProjectGladius\FightSim\FightSim\bin\Debug\FightSim.exe.config
+C:\Users\william.rahn\Documents\GitHub\ProjectGladius\FightSim\FightSim\bin\Debug\FightSim.exe
+C:\Users\william.rahn\Documents\GitHub\ProjectGladius\FightSim\FightSim\bin\Debug\FightSim.pdb
+C:\Users\william.rahn\Documents\GitHub\ProjectGladius\FightSim\FightSim\bin\Debug\Newtonsoft.Json.dll
+C:\Users\william.rahn\Documents\GitHub\ProjectGladius\FightSim\FightSim\bin\Debug\RestSharp.dll
+C:\Users\william.rahn\Documents\GitHub\ProjectGladius\FightSim\FightSim\bin\Debug\Newtonsoft.Json.xml
+C:\Users\william.rahn\Documents\GitHub\ProjectGladius\FightSim\FightSim\bin\Debug\RestSharp.xml
