@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FightSim
 {
-    class FighterB
+    class FighterB // Denna klass är onödig och en kvarleva efter första itterationen av FightSim projektet 
     {
         private int hp;
         public string name;

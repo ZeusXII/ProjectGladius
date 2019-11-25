@@ -9,9 +9,9 @@ namespace FightSim
     class MainMenu
     {
         
-        public int userInput;
+        public int userInput; //Input för att avgöra vad använder väljer för option, ex 1, 0 etc)
 
-        public MainMenu()
+        public MainMenu() //Metoden för MainMenu som anvädns i main 
         {
 
             while (true)
@@ -26,11 +26,11 @@ namespace FightSim
                     Console.Clear();
                     break;
                 }
-                else if (option == 0)
+                else if (option == 0) //Avslutar programmet
                 {
                     Environment.Exit(0);
                 }
-                else
+                else //Felhantering
                 {
                     Console.Clear();
                     Console.WriteLine("Only the 1 or 0 buttons are accepted! Press enter to return to menu");

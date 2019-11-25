@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FightSim
 {
-    class Planet
+    class Planet // Klass för användandet och avläsningen av API
     {
         public string name;
         public string climate;
