@@ -6,32 +6,17 @@ using System.Threading.Tasks;
 
 namespace FightSim
 {
-    class FighterB // Denna klass är onödig och en kvarleva efter första itterationen av FightSim projektet 
+    class FighterB : Fighter // Denna klass är onödig och en kvarleva efter första itterationen av FightSim projektet 
     {
-        private int hp;
-        public string name;
-        public string PresentName()
+        public int Attack2()
         {
-            Console.Write("Write the name of the fighter: ");
-            return name = Console.ReadLine();
-        }
-        /*
-        public int Attack()
-        {
+            int fighter_attack = Attack();
+            int fighterb_attack = fighter_attack + 10;
 
+            return fighterb_attack;
         }
-        public void Hurt(int amount)
-        {
 
-        }
-        public bool IsAlive()
-        {
 
-        }
-        public int GetHp()
-        {
 
-        }
-        */
     }
 }

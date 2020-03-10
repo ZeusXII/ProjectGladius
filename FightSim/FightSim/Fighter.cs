@@ -94,7 +94,7 @@ namespace FightSim
 
                 }
                 
-                //Console.WriteLine(enemy.name + " Health: " + enemy.GetHp() + "\n######################################");
+                Console.WriteLine(enemy.name + " Health: " + enemy.GetHp() + "\n######################################");
                 //Console.Read();
            
             }
